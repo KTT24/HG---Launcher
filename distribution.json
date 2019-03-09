@@ -14,10 +14,10 @@
             "id": "Confined_Space_1.12.2",
             "name": "Confined Space - 1.12.2",
             "description": "The Confined Space 1.12.2 modpack",
-            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "icon": "",
             "version": "1.0.0",
             "address": "mc.westeroscraft.com",
-            "minecraftVersion": "1.11.2",
+            "minecraftVersion": "1.12.2",
             "discord": {
                 "shortId": "CS122",
                 "largeImageText": "WesterosCraft Production Server",

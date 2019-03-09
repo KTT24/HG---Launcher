@@ -2,24 +2,24 @@
     "version": "1.0.0",
     "discord": {
         "clientId": "385581240906022916",
-        "smallImageText": "WesterosCraft",
-        "smallImageKey": "seal-circle"
+        "smallImageText": "ConfinedSpace",
+        "smallImageKey": "logo1"
     },
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
-    "rss": "https://westeroscraft.com/articles/index.rss",
+    "rss": "",
     "servers": [
         {
-            "id": "WesterosCraft-1.11.2",
-            "name": "WesterosCraft Production Server",
-            "description": "Main WesterosCraft server. Connect to enter the Realm.",
+            "id": "Confined_Space_1.12.2",
+            "name": "Confined Space - 1.12.2",
+            "description": "The Confined Space 1.12.2 modpack",
             "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
-            "version": "3.9.4",
+            "version": "1.0.0",
             "address": "mc.westeroscraft.com",
             "minecraftVersion": "1.11.2",
             "discord": {
-                "shortId": "Production",
+                "shortId": "CS122",
                 "largeImageText": "WesterosCraft Production Server",
                 "largeImageKey": "server-prod"
             },
